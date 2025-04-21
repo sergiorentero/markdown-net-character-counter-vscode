@@ -4,6 +4,10 @@
   "description": "Counts net characters (excluding Markdown syntax) in the selected text.",
   "version": "1.0.0",
   "publisher": "sergiorentero",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiorentero/markdown-net-character-counter-vscode.git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
