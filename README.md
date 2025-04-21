@@ -1,3 +1,4 @@
+HEAD
 # Markdown Net Character Counter
 
 Esta extensión de Visual Studio Code cuenta la cantidad de caracteres "netos" (excluyendo la sintaxis Markdown) del texto seleccionado en el editor. El resultado se muestra en la barra de estado inferior.
@@ -18,3 +19,4 @@ Esta extensión de Visual Studio Code cuenta la cantidad de caracteres "netos" (
 ## Notas
 
 La eliminación de sintaxis Markdown es básica y puede no manejar todos los casos complejos.
+origin/main
